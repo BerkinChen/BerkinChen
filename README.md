@@ -17,16 +17,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a>
-    <img width="50%" align="leftt" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=berkinchen&count_private=true" />
+    <img width="50%" align="left" alt="BerkinChen's github stats" src="https://github-readme-stats.vercel.app/api?username=berkinchen&count_private=true" />
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="42%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkinchen&count_private=true&layout=compact&hide=Jupyter%20Notebooks" />
+    <img width="50%" align="left" alt="BerkinChen's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkinchen&count_private=true&layout=compact&langs_count=10"/>
   </a>
 </p>
-
----
-
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [BerkinChen](https://github.com/berkinchen)
 
 
