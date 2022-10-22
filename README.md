@@ -20,7 +20,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="50%" align="left" alt="BerkinChen's github stats" src="https://github-readme-stats.vercel.app/api?username=berkinchen&count_private=true" />
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="50%" align="left" alt="BerkinChen's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkinchen&count_private=true&layout=compact&langs_count=10"/>
+    <img width="50%" align="left" alt="BerkinChen's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkinchen&count_private=true&layout=compact&hide=jupyter%20notebook"/>
   </a>
 </p>
 
