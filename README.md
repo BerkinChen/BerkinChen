@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Berkin Chen, a Student  from China.
+## Hi, I'm Berkin Chen, a PHD Student  from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
